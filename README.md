@@ -4,7 +4,7 @@
 
 If you want get some more information about traci then have a look on the one pager below.
 
-* [**Information** (Java)](/) 
+* [**Information** (PDF)](/) 
 
 As mentioned before, traci is tracking different kinds of assets. These assets need to be visualized, which is done by the webui below.
 
@@ -12,5 +12,5 @@ As mentioned before, traci is tracking different kinds of assets. These assets n
 
 If your fingers are itching and you want to start hacking immediately, then discover the different endpoints provided in the api documentation.
 
-* [**API-Documentation** (Java)](/TRACI_API_v2.html)
+* [**API-Documentation** (HTML)](/TRACI_API_v2.html)
 
