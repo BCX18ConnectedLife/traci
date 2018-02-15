@@ -4,7 +4,7 @@
 
 If you to want get some more information about traci then have a look on the one pager below.
 
-* [**Information** (PPT)](/) 
+* [**Information** (PPTX)](/) 
 
 As mentioned before, traci is tracking different kinds of assets. These assets need to be visualized, which is done by the webui below.
 
