@@ -12,5 +12,5 @@ As mentioned before, traci is tracking different kinds of assets. These assets n
 
 If your fingers are itching and you want to start hacking immediately, then discover the different endpoints provided in the api documentation.
 
-* [**API-Documentation** (HTML)](/TRACI_API_v2.html)
+* [**API-Documentation** (HTML)](http://htmlpreview.github.io/?https://github.com/BCX18ConnectedLife/traci/blob/master/TRACI_API_v2.html)
 
